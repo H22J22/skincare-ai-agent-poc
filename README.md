@@ -1,6 +1,6 @@
 # Skincare AI Agent — Inventory Optimization & Personalized Recommendation System
 
-> **POC Project** · AI 3기 3반 · Team: 송윤아, 채희지
+> **POC Project** 
 
 A multi-agent AI system that solves two concurrent business problems in cosmetics retail:
 - **Inventory stagnation** caused by rapid product launches
